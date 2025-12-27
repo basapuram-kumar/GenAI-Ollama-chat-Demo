@@ -1,0 +1,43 @@
+### Pull the model to local machine
+```
+ollama run llama3.1:8b
+```
+
+### List Running models
+```
+➜ ollama ps
+NAME           ID              SIZE      PROCESSOR    UNTIL
+llama3.1:8b    46e0c10c039e    5.2 GB    100% GPU     4 minutes from now
+```
+### Python Dependency
+ ```
+ python3.11 -m venv myenv
+
+ source myenv/bin/activate
+```
+### Resetted Python Version
+
+```
+ python -V
+Python 3.11.13
+```
+
+## Istall python packages
+```
+ pip install -r requiremnets.txt
+ ```
+
+ ## Run Locally
+  ```
+  streamlit run ollamaDemo.py
+  ```
+  Response
+  ```
+
+➜ streamlit run ollamaDemo.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://192.168.29.242:8502
+```
