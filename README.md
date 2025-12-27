@@ -100,3 +100,8 @@ langchain-ollama/
 ├── .gitignore            # Git ignore rules
 └── README.md             # This file
 ```
+
+## Example Screenshot from UI
+<img width="1251" height="688" alt="Screenshot 2025-12-27 at 15 04 37" src="https://github.com/user-attachments/assets/6e185453-a4df-4938-b186-f702875f156b" />
+
+
